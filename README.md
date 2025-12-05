@@ -20,7 +20,7 @@ To create a transparent, data-driven dashboard that allows users to:
 
 ## 🧩 Key Features  
 ### 🎛️ Interactive Metric Selector  
-Users can choose which metric to visualize from a dropdown menu.  
+Users can choose which metric you want to visualize from a dropdown menu.  
 
 **Available metrics:**  
 - `cost_usd` — Total cost of running the model  
